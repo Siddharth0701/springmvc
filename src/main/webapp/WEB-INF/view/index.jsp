@@ -7,6 +7,7 @@
 <hr>
 <a href="showForm">Hello World form</a>
 <a href="about">About page</a>
+<a href="help">help page</a>
 <%
   String name= (String) request.getAttribute("name");
 Integer id= (Integer) request.getAttribute("id");
